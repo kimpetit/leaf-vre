@@ -66,7 +66,7 @@
 	"id": "https://raw.githubusercontent.com/kimpetit/leaf-vre/main/getting_started/exercises/Heresies/Joanna_Russ_exercise.xml?person_annotation_20230220150149363",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-02-20T20:01:49.363Z",
-	"dcterms:modified": "2023-02-20T20:01:49.363Z",
+	"dcterms:modified": "2023-02-20T20:04:42.515Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kimpetit",
 		"@type": [
@@ -98,7 +98,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/109024489/",
+		"@id": "http://www.wikidata.org/entity/Q265270",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -124,7 +124,7 @@
          <head><title>Women Talking, Women Thinking </title></head>
          <note>Various excerpts from the forthcoming novel, On Strike Against God, to be published
             in the spring of 1978 by Out and Out Books.</note>
-         <byline><persName key="Russ, Joanna, 1937-2011" ref="http://viaf.org/viaf/109024489/" role="aut">Joanna Russ</persName></byline>
+         <byline><persName key="Joanna Russ" ref="http://www.wikidata.org/entity/Q265270" role="aut">Joanna Russ</persName></byline>
 
          <p>What did we talk about?</p>
          <p>I don't remember. We talked so hard and sat so still that I got cramps in my knees. We
